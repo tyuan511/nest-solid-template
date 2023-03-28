@@ -1,11 +1,11 @@
 {
-  "name": "tdrive",
+  "name": "nest-solid-template",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "prepare": "husky install",
-    "dev": "pnpm run -r --stream --filter @tdrive/fe --filter @tdrive/server dev"
+    "dev": "pnpm run -r --stream --filter fe --filter server dev"
   },
   "keywords": [],
   "author": "",
